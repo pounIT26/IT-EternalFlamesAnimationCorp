@@ -51,6 +51,12 @@ Infrastructure Design:
 <img width="846" height="567" alt="image" src="https://github.com/user-attachments/assets/1415b86a-cc46-4417-9faf-909100b856ae" />
 <img width="878" height="637" alt="image" src="https://github.com/user-attachments/assets/5fc95b35-8c77-4339-8b52-a6ccfa0c1e96" />
 -brief explanation of these and what they do USA-LAX-FS-01 is a file server of production team and we want it to back up to USA-LAX-S3GW-01 like a hot and cold drive so later of the day it can upload to S3 bucket on cloud *these scripts only be accessible through it department especially the account svc_s3 since it have permission to the s3 server and file mapping of USA-LAX-FS-01 and USA-LAX-S3GW-01
+<img width="910" height="688" alt="image" src="https://github.com/user-attachments/assets/3cdda552-f29a-4c9f-a4ce-496053edd88f" />
+we need task scheduler for this role to run powershell robocopy each 2 hours then 1 at the end of the day for S3 
+<img width="946" height="661" alt="image" src="https://github.com/user-attachments/assets/922fe8d7-267d-4109-bd33-c3246250076f" />
+<img width="637" height="476" alt="image" src="https://github.com/user-attachments/assets/ebc3905f-9018-403f-a15b-a415bec3602e" />
+they also give out log file 
+<img width="1847" height="686" alt="image" src="https://github.com/user-attachments/assets/05636954-9754-41bd-9ab7-bb8644b2eaa9" />
 
 
 
