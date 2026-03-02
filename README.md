@@ -50,7 +50,7 @@ Infrastructure Design:
 -Next step we want to create drive mapping gpo for each department. In this case example i set up for IT with GPO mapping both drive together since this is a simulation we create a CNAME records to point the drive to Server
 <img width="846" height="567" alt="image" src="https://github.com/user-attachments/assets/1415b86a-cc46-4417-9faf-909100b856ae" />
 <img width="878" height="637" alt="image" src="https://github.com/user-attachments/assets/5fc95b35-8c77-4339-8b52-a6ccfa0c1e96" />
-
+-brief explanation of these and what they do USA-LAX-FS-01 is a file server of production team and we want it to back up to USA-LAX-S3GW-01 like a hot and cold drive so later of the day it can upload to S3 bucket on cloud *these scripts only be accessible through it department especially the account svc_s3 since it have permission to the s3 server and file mapping of USA-LAX-FS-01 and USA-LAX-S3GW-01
 
 
 
