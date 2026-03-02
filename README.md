@@ -55,7 +55,12 @@ Infrastructure Design:
 we need task scheduler for this role to run powershell robocopy each 2 hours then 1 at the end of the day for S3 
 <img width="946" height="661" alt="image" src="https://github.com/user-attachments/assets/922fe8d7-267d-4109-bd33-c3246250076f" />
 <img width="637" height="476" alt="image" src="https://github.com/user-attachments/assets/ebc3905f-9018-403f-a15b-a415bec3602e" />
+
+
 they also give out log file 
+<img width="958" height="675" alt="image" src="https://github.com/user-attachments/assets/a2b56d82-21db-4afd-a1a2-a49fa7578944" />
+
+
 <img width="1847" height="686" alt="image" src="https://github.com/user-attachments/assets/05636954-9754-41bd-9ab7-bb8644b2eaa9" />
 
 
