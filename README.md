@@ -20,14 +20,16 @@ Technical Stack:
 
 Infrastructure Design:
 1.Global Active Directory Logic
+
    <img width="495" height="36" alt="image" src="https://github.com/user-attachments/assets/9f7c22de-529e-43a8-943c-a3dadfa26d8b" />
+   
 Example:
 -USA
-   -Corporate
-   -Production
+   Corporate
+   Production
 -Japan
-   -Corporate
-   -Production
+   Corporate
+   Production
 -CN (still in development)
 
 Role-based access control is enforced through Group Policy and NTFS permissions.
