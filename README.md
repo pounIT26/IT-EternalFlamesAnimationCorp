@@ -1,7 +1,7 @@
 IT-EternalFlamesAnimationCorp
 Simulated Global AD Infrastructure & AWS Integration
 
-Project Overview:
+##Project Overview:
 This project involves the design and implementation of a cross-region IT infrastructure for a simulated animation studio, EternalFlamesAnimationCorp. 
 The architecture uses a Windows-based internal system integrated with a hybrid cloud model via AWS for backup and global production workflows.
 
