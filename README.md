@@ -130,15 +130,10 @@ The full environment was built in Oracle VM VirtualBox with Windows Server 2022 
 | Active Directory (China) | 🔧 In Development |
 | WireGuard VPN | ✅ Complete |
 | S3 Backup Pipeline (USA) | ✅ Complete |
-| S3 Rollback & Versioning Recovery | 🔧 In Development |
+| S3 Rollback & Versioning Recovery | ✅ Complete |
 | Drive Mapping GPO | ✅ Complete |
 | User Provisioning (PowerShell) | ✅ Complete |
-| Global-Assets S3 Bucket | 🔧 In Development |
 | CN Region (China Office) | 🔧 In Development |
-| RODC (Read-Only Domain Controller) | 🔧 In Development |
-| Cross-Region Collaboration | 🔧 In Development |
+| Cross-Region Collaboration | ✅ Complete  |
 
 ---
-
- 
-
