@@ -118,8 +118,8 @@ The full environment was built in Oracle VM VirtualBox with Windows Server 2022 
 
 - [AD Implementation Guide](https://gng-6679.atlassian.net/wiki/external/Y2VkY2RiNzY1YzhmNDI5NmJkYWE1YmI4ZjM5YWQyMWI) — Server roles, OU structure, automated user provisioning, GPO configuration, DNS CNAME records, drive mapping
 - [VPN Setup & Troubleshooting Guide](https://gng-6679.atlassian.net/wiki/external/YWIyNDcxMTAwZDI1NGM3N2JiNWQzMjMwYWJkYzkxOTM) — WireGuard installation on all machines, peer configuration, IP forwarding on bridge device, `sc.exe` auto-start, DNS setup, common troubleshooting steps
-  
 - [S3 Cross-Region Replication (CRR) Setup Guide ](https://gng-6679.atlassian.net/wiki/external/NzliYTAyMTZjZTEzNGE1MmI2Yjg1ODhjNTBlZjU5NTI)— S3 versioning, IAM replication role, replication rule configuration, one-time backfill sync, verification steps
+- [Disaster Recovery Runbook]()
 ---
 ## Status
 
